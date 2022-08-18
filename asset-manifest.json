@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xcuty/react_movie_app/static/css/main.1c1fe698.css",
+    "main.js": "/Xcuty/react_movie_app/static/js/main.9540ebce.js",
+    "static/js/787.7c42db31.chunk.js": "/Xcuty/react_movie_app/static/js/787.7c42db31.chunk.js",
+    "index.html": "/Xcuty/react_movie_app/index.html",
+    "main.1c1fe698.css.map": "/Xcuty/react_movie_app/static/css/main.1c1fe698.css.map",
+    "main.9540ebce.js.map": "/Xcuty/react_movie_app/static/js/main.9540ebce.js.map",
+    "787.7c42db31.chunk.js.map": "/Xcuty/react_movie_app/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1fe698.css",
+    "static/js/main.9540ebce.js"
+  ]
+}
